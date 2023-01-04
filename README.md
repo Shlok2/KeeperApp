@@ -8,7 +8,7 @@ To start Keeper ->
 3) npm start to start react app (keeper).
 
 Images ->
-![image](https://user-images.githubusercontent.com/81300534/210560731-083aa713-6bf8-4ad5-a86a-0be8c1a48fb1.png)
+![image](https://user-images.githubusercontent.com/81300534/210568147-e13f2405-7e03-4e0b-9a29-d7e167722f90.png)
 
 ![image](https://user-images.githubusercontent.com/81300534/210560840-4cd0710f-f2e9-48f4-b48a-8db16fe84647.png)
 
